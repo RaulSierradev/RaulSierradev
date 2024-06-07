@@ -22,11 +22,11 @@ Gracias a los conocimientos adquiridos dentro de la carrera de **ingeniería de 
 
 * Lenguajes:
   * JavaScript
-  * Java (muy básico)
+  * Python (aprendiendo)
 
 * Front End:
    * React
-   * Redux
+   * Zustand
    * Tailwind CSS
    * Boostrap
    * SCSS
@@ -35,10 +35,12 @@ Gracias a los conocimientos adquiridos dentro de la carrera de **ingeniería de 
   * Node
   * Express
   * Sequelize
+  * Mongoose
 
 * Bases de datos:
   * PostgreSQL
   * MySQL
+  * MongoDB
 
 Y por supuesto, **HTML**, **CSS** y **GIT**
 
