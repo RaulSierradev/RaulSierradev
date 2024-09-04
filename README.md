@@ -18,7 +18,7 @@ En un futuro (no muy lejano, no muy cercano) me veo creando productos de calidad
 
 
 ## Las tecnologías que uso 🧑‍🎓
-Gracias a los conocimientos adquiridos dentro de la carrera de **ingeniería de Sistemas** de la _Universidad de Cundinamarca_ y el bootcamp de **Desarrollo Full-Stack** de _Henry,_ manejo las siguientes tecnologías
+Gracias a los conocimientos adquiridos dentro de la carrera de **ingeniería de Sistemas** (no terminada) de la _Universidad de Cundinamarca_, **ingeniería de Software** de la universidad _Politécnico Grancolombiano_ y el bootcamp de **Desarrollo Full-Stack** de _Henry,_ manejo las siguientes tecnologías
 
 * Lenguajes:
   * JavaScript
